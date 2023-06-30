@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 8
     },
     {
       "id": 2,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "pikachu",
+      "image": "https://jazwaresv2.s3.amazonaws.com/media/POKEMON_PIKACHU_OK.png",
+      "likes": 99,
+      "id": 10
+    },
+    {
+      "name": "spidey",
+      "image": "https://jazwaresv2.s3.amazonaws.com/media/Spidey-Feature-Plush-My-Friend-Spidey-SNF0006-OP-02-lpr-min.png",
+      "likes": 99,
+      "id": 11
     }
   ]
 }
